@@ -1,0 +1,6 @@
+echo "# Teste_Toinho" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/izaiasn/Teste_Toinho.git
+git push -u origin master
